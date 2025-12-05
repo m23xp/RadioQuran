@@ -1,4 +1,5 @@
 <div dir="rtl">
+
     <div align="center">
         <img src="radio.png" alt="Radio Quran Logo" width="120">
         <h2>📻 إذاعة القرآن الكريم | Radio Quran</h2>
@@ -7,17 +8,19 @@
         </p>
         <p>
             <a href="https://m23xp.github.io/RadioQuran/" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-%D9%85%D8%B9%D8%A7%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9-success?style=for-the-badge&logo=google-chrome&logoColor=white&color=2ea44f" alt="Live Demo" />
+              <img src="https://img.shields.io/badge/Live_Preview-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Preview" />
             </a>
-
         </p>
     </div>
+
     <hr>
+
     <div align="right">
         <h3>📖 عن المشروع</h3>
         <p>
         مشروع <b>Radio Quran</b> هو واجهة ويب تهدف لتسهيل الوصول إلى إذاعات القرآن الكريم بمختلف القراء والروايات. تم تصميم الموقع ليكون خفيفاً، سريع التحميل، وسهل الاستخدام على جميع الأجهزة.
         </p>
+
         <h3>✨ المميزات</h3>
         <ul>
             <li>🎧 تشغيل مباشر لإذاعات القرآن الكريم بجودة عالية.</li>
@@ -25,13 +28,15 @@
             <li>⚡ خفيف جداً ولا يستهلك الكثير من البيانات.</li>
             <li>📋 واجهة بسيطة وسهلة التنقل.</li>
         </ul>
+
         <h3>🛠 التقنيات المستخدمة</h3>
         <p>تم بناء هذا المشروع باستخدام تقنيات الويب الأساسية لضمان السرعة والأداء:</p>
         <p>
-            <img src="[https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)" />
-            <img src="[https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)" />
-            <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)" />
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         </p>
+
         <h3>🚀 طريقة التشغيل</h3>
         <p>يمكنك تصفح المشروع مباشرة عبر رابط المعاينة أعلاه، أو تحميل الملفات وتشغيلها محلياً:</p>
         <ol>
@@ -39,7 +44,9 @@
             <li>افتح ملف <code>index.html</code> في أي متصفح.</li>
         </ol>
     </div>
+
     <br>
     <hr>
-    <p align="center">تم التطوير بواسطة <a href="[https://github.com/m23xp](https://github.com/m23xp)">m23xp</a></p>
+    <p align="center">تم التطوير بواسطة <a href="https://github.com/m23xp">m23xp</a></p>
+
 </div>
