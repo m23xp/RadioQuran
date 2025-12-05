@@ -1,14 +1,12 @@
-<div dir="rtl">
-
-    <div align="center">
+ <div align="center">
         <img src="radio.png" alt="Radio Quran Logo" width="120">
         <h2>📻 إذاعة القرآن الكريم | Radio Quran</h2>
         <p>
             <b>تطبيق ويب بسيط وسريع للاستماع لإذاعات القرآن الكريم المباشرة.</b>
         </p>
         <p>
-            <a href="[https://m23xp.github.io/RadioQuran/](https://m23xp.github.io/RadioQuran/)" target="_blank">
-              <img src="[https://img.shields.io/badge/Live_Preview-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white](https://img.shields.io/badge/Live_Preview-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)" alt="Live Preview" />
+            <a href="https://m23xp.github.io/RadioQuran/" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Preview-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Preview" />
             </a>
         </p>
     </div>
@@ -32,9 +30,9 @@
         <h3>🛠 التقنيات المستخدمة</h3>
         <p>تم بناء هذا المشروع باستخدام تقنيات الويب الأساسية لضمان السرعة والأداء:</p>
         <p>
-            <img src="[https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)" />
-            <img src="[https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)" />
-            <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)" />
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         </p>
 
         <h3>🚀 طريقة التشغيل</h3>
@@ -47,6 +45,7 @@
 
     <br>
     <hr>
-    <p align="center">تم التطوير بواسطة <a href="[https://github.com/m23xp](https://github.com/m23xp)">m23xp</a></p>
+    <p align="center">تم التطوير بواسطة <a href="https://github.com/m23xp">Ghost</a></p>
 
 </div>
+
