@@ -6,9 +6,10 @@
             <b>تطبيق ويب بسيط وسريع للاستماع لإذاعات القرآن الكريم المباشرة.</b>
         </p>
         <p>
-            <a href="[https://m23xp.github.io/RadioQuran/](https://m23xp.github.io/RadioQuran/)">
-              <img src="[https://img.shields.io/badge/Live_Demo-معاينة_الموقع-success?style=for-the-badge&logo=google-chrome&color=2ea44f](https://img.shields.io/badge/Live_Demo-معاينة_الموقع-success?style=for-the-badge&logo=google-chrome&color=2ea44f)" alt="Live Demo" />
-            </a>
+            <a href="https://m23xp.github.io/RadioQuran/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-%D9%85%D8%B9%D8%A7%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9-success?style=for-the-badge&logo=google-chrome&logoColor=white&color=2ea44f" alt="Live Demo" />
+</a>
+
         </p>
     </div>
     <hr>
