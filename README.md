@@ -1,4 +1,4 @@
-<div align="center">
+<div dir="rtl" align="center">
   <img src="radio.png" alt="Radio Quran Logo" width="100">
   <h2>إذاعة القرآن الكريم | Radio Quran</h2>
   
